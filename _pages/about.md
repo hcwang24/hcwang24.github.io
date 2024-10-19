@@ -21,7 +21,7 @@ redirect_from:
 
 I'm an experienced Data Scientist and Bioinformatician with 8+ years of experience in quantitative data analytics, statistics, and visualization. Proficient in Python, R, SQL, cloud services (AWS, Azure), and ETL processes. Led projects on predictive modeling, dashboards, and bioinformatics, excelling in statistical analysis and data-driven insights.
 
-I have published 15 papers at the top peer-reviewed journals in the field of Stem Cell Research and Bioinformatics with a total of <a <strong><span id='total_cit'>260000+</span></strong> href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> citations </a> (Check out my Google Scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published 15 papers at the top peer-reviewed journals in the field of Stem Cell Research and Bioinformatics with a total of <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (Check out my Google Scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
