@@ -20,7 +20,7 @@ redirect_from:
 # Hello there!
 
 ## 📈 Objective
-Experienced **Data Scientist** and **Bioinformatician** with 8+ years in **quantitative data analytics**, **statistics**, and **visualization**. Proficient in **Python**, **R**, **SQL**, **cloud services (AWS, Azure)**, and **ETL processes**. Led projects on **predictive modeling**, **dashboards**, and **bioinformatics**, excelling in **statistical analysis** and **data-driven insights**.
+  Experienced **Data Scientist** and **Bioinformatician** with 8+ years in **quantitative data analytics**, **statistics**, and **visualization**. Proficient in **Python**, **R**, **SQL**, **cloud services (AWS, Azure)**, and **ETL processes**. Led projects on **predictive modeling**, **dashboards**, and **bioinformatics**, excelling in **statistical analysis** and **data-driven insights**.
 
 ## 🛠 Core Skills
 - **Programming & Computation**: Python, R, SQL, NoSQL, Unix Shell, PBS, VBScript.
@@ -82,13 +82,13 @@ Experienced **Data Scientist** and **Bioinformatician** with 8+ years in **quant
   - Led an executive team to organize bi-annual events connecting students to research opportunities, **increasing club size by 400%** in 8 years.
   - Mentored 1-2 undergraduates per year in securing research roles through mock interviews, CV reviews, and networking, with a **high success rate**.
   - Established standardized procedures for **smooth leadership transitions**, reducing operational disruptions and maintaining event consistency.
-- **COVID-19 Vaccine Clinic Volunteer** – Montreal General Hospital _(April 2021 – May 2021)_
+- **COVID-19 Vaccine Clinic Volunteer** at Montreal General Hospital _(April 2021 – May 2021)_
   - Assisted with non-medical tasks during the COVID-19 pandemic, **served over 300 people weekly**. 
-- **Friendly Visitor** – Montreal Chinese Hospital _(2017 – 2020)_
+- **Friendly Visitor** at Montreal Chinese Hospital _(2017 – 2020)_
   - Provided companionship to elders, assisting them with physiotherapy and enhancing their well-being.
-- **Basketball Coach** | Churchill Secondary School _(2022 – 2023)_
-- **Student Representative** | UBC MDS Program _(Oct 2022 – Nov 2022)_
-- **Intramural Basketball Team Captain** | McGill _(2014 – 2022)_
+- **Basketball Coach** at Churchill Secondary School _(2022 – 2023)_
+- **Student Representative** at UBC MDS Program _(Oct 2022 – Nov 2022)_
+- **Intramural Basketball Team Captain** at McGill _(2014 – 2022)_
 
 
 ## 📝 Publications
