@@ -1,22 +1,31 @@
-# main links links
+# main links
 main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Objective"
+    url: "/#📈-objective"
+
+  - title: "Core Skills"
+    url: "/#🛠-core-skills"
+
+  - title: "Recent Projects"
+    url: "/#🔥-recent-projects"
+
+  - title: "Work Experience"
+    url: "/#📖-work-experience"
+
+  - title: "Awards and Certifications"
+    url: "/#🎖-awards-and-certifications"
+
+  - title: "Education"
+    url: "/#🎓-education"
+
+  - title: "Volunteer/Extracurricular Activities"
+    url: "/#🏅-volunteer/extracurricular-activities"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#📝-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Citations & Recognition"
+    url: "/#💬-citations--recognition"
