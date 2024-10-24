@@ -31,5 +31,5 @@ for pub_id, pub in author['publications'].items():
     })
 
 # Save simplified publication data
-with open('results/publications.json', 'w') as pubfile:
+with open('_data/publications.json', 'w') as pubfile:
     json.dump(publications_list, pubfile, ensure_ascii=False)
