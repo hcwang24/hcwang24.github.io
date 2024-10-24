@@ -21,3 +21,15 @@ shieldio_data = {
 }
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
+
+# Extract publications and format them for website
+publications_list = []
+for pub_id, pub in author['publications'].items():
+    publications_list.append({
+        'title': pub['bib']['title'],
+        'citation': pub['bib'].get('citation', '')
+    })
+
+# Save simplified publication data
+with open('results/publications.json', 'w') as pubfile:
+    json.dump(publications_list, pubfile, ensure_ascii=False)

@@ -92,12 +92,14 @@ redirect_from:
 
 
 ## 📝 Publications
-- **Authored/co-authored multiple papers** published in prominent journals including *Frontiers in Immunology*, *Immunology*, *The International Journal of Biochemistry & Cell Biology*, *Scientific Reports*, *Cell Death Dis*, among others.
+<ul>
+  {% for pub in site.data.publications %}
+    <li>{{ pub.title }}. {{ pub.citation }}.</li>
+  {% endfor %}
+</ul>
 
 
 ## 💬 Citations & Recognition
-A total of <a href='https://scholar.google.ca/citations?user=-F-G0pwAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.  
+A total of <a href='https://scholar.google.ca/citations?user=-F-G0pwAAAAJ'> <strong><span id='total_cit'>260000+</span></strong> google scholar citations </a>.  
 Check out my Google Scholar badge:  
-<a href='https://scholar.google.ca/citations?user=-F-G0pwAAAAJ&hl=en'>
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.ca%2Fcitations%3Fuser%3D-F-G0pwAAAAJ%26hl%3Den&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
+<a href='https://scholar.google.com/citations?user=F-G0pwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
